@@ -29,7 +29,7 @@ const JumbotronComponent = (props) => {
               dis parturient montes, nascetur ridiculus mus. Nullam vulputate
               lobortis commodo. Morbi nec metus augue. Interdum et malesuada
               fames ac ante ipsum primis in faucibus. Aenean id hendrerit
-              turpis. asdasdad
+              turpis.
             </CardText>
             <Button color="dark"><FontAwesomeIcon icon={faInfo} /> Learn More</Button>
           </CardBody>
